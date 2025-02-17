@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## ![Jokes Card](https://readme-jokes.vercel.app/api)
+# ![Jokes Card](https://readme-jokes.vercel.app/api)
 <img src="https://discord-cards.onrender.com/api/compact/567744936800157709?about=Hey&banner=https://pyxis.nymag.com/v1/imgs/ed7/b5d/ae73edc4a32b3a2fa8dc650b21127f09d2-club-penguin-rewritten.2x.rsocial.w600.jpg&large_image=https://cdn.britannica.com/29/150929-050-547070A1/lion-Kenya-Masai-Mara-National-Reserve.jpg&small_image=&hex="/>
