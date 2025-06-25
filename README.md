@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 ## Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TRUMPiler&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact) <br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TRUMPiler&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br>
 
 ![](https://github-readme-stats.vercel.app/api?username=TRUMPiler&theme=synthwave&show_icons=true&hide_border=false&count_private=true)
