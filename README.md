@@ -1,4 +1,4 @@
-## Hi i am Naishal Doshi🙌
+## Hi i am Naisal Doshi🙌
 <!--
 **TRUMPiler/TRUMPiler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
